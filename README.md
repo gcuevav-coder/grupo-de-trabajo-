@@ -1,5 +1,3 @@
-# grupo-de-trabajo-
-trabajo
 # Número de materias
 num_materias = int(input("¿Cuántas materias tiene el estudiante? "))
 
